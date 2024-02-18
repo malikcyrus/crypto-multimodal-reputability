@@ -1,0 +1,283 @@
+category_id,name
+aave-tokens,Aave Tokens
+account-abstraction,Account Abstraction
+adidas-ecosystem,Adidas Ecosystem
+alephium-ecosystem,Alephium Ecosystem
+algorand-ecosystem,Algorand Ecosystem
+alleged-sec-securities,Alleged SEC Securities
+analytics,Analytics
+animal-racing,Animal Racing
+animoca-brands,Animoca Brands
+apex-chain-ecosystem,Apex Chain Ecosystem
+aptos-ecosystem,Aptos Ecosystem
+arbitrum-ecosystem,Arbitrum Ecosystem
+arbitrum-nova-ecosystem,Arbitrum Nova Ecosystem
+art,Art
+art-blocks-ecosystem,Art Blocks Ecosystem
+artificial-intelligence,Artificial Intelligence (AI)
+asset-backed-tokens,Asset-backed Tokens
+asset-manager,Asset Manager
+augmented-reality,Augmented Reality
+automated-market-maker-amm,Automated Market Maker (AMM)
+avalanche-ecosystem,Avalanche Ecosystem
+axie-infinity,Axie Infinity
+azuki-ecosystem,Azuki Ecosystem
+base-ecosystem,Base Ecosystem
+berachain-ecosystem,Berachain Ecosystem
+big-data,Big Data
+binance-launchpad,Binance Launchpad
+binance-launchpool,Binance Launchpool
+bitcoin-fork,Bitcoin Fork
+binance-smart-chain,BNB Chain Ecosystem
+bored-ape-ecosystem,Bored Ape Ecosystem
+brc-20,BRC-20
+breeding,Breeding
+bridge-governance-tokens,Bridge Governance Tokens
+business-platform,Business Platform
+business-services,Business Services
+camelot-launchpad,Camelot Launchpad
+canto-ecosystem,Canto Ecosystem
+cardano-ecosystem,Cardano Ecosystem
+card-games,Card Games
+cat-themed-coins,Cat-Themed Coins
+celer-network,Celer Network
+celo-ecosystem,Celo Ecosystem
+centralized-exchange-token-cex,Centralized Exchange (CEX)
+chaingpt-pad,ChainGPT Pad
+charity,Charity
+cny-stablecoin,CNY Stablecoin
+coinbase-ventures-portfolio,Coinbase Ventures Portfolio
+collectibles,Collectibles
+communication,Communication
+compound-tokens,Compound Tokens
+cosmos-ecosystem,Cosmos Ecosystem
+cronos-ecosystem,Cronos Ecosystem
+cryptocurrency,Cryptocurrency
+ctokens,cToken
+curve-ecosystem,Curve Ecosystem
+cyberkongz-ecosystem,CyberKongz Ecosystem
+daomaker-ecosystem,DaoMaker Ecosystem
+data-availability,Data Availability
+decentralized-exchange,Decentralized Exchange (DEX)
+decentralized-finance-defi,Decentralized Finance (DeFi)
+decentralized-science-desci,Decentralized Science (DeSci)
+defi-index,DeFi Index
+defi-pulse-index-dpi,Defi Pulse Index (DPI)
+delabs,DeLabs
+depin,DePIN
+decentralized-derivatives,Derivatives
+discord-bots,Discord Bots
+dog-themed-coins,Dog-Themed Coins
+doodles-llc,Doodles LLC
+drc-20,DRC-20
+dwf-labs-portfolio,DWF Labs Portfolio
+edgeware-ecosystem,Edgeware Ecosystem
+education,Education
+egirl-capital-portfolio,eGirl Capital Portfolio
+elon-musk-inspired-coins,Elon Musk-Inspired Coins
+energy,Energy
+entertainment,Entertainment
+eco-friendly,Environment
+ergo-ecosystem,Ergo Ecosystem
+etf,ETF
+eth-2-0-staking,Eth 2.0 Staking
+ethereum-ecosystem,Ethereum Ecosystem
+ethereum-pos-iou,Ethereum PoS IOU
+ethereumpow-ecosystem,EthereumPoW Ecosystem
+ethereum-pow-iou,Ethereum PoW IOU
+eur-stablecoin,EUR Stablecoin
+exchange-based-tokens,Exchange-based Tokens
+f1-partnership,F1 Partnership
+fan-token,Fan Token
+fantom-ecosystem,Fantom Ecosystem
+farming-as-a-service-faas,Farming-as-a-Service (FaaS)
+finance-banking,Finance / Banking
+fixed-interest,Fixed Interest
+flooring-protocol,Floor Protocol
+fractionalized-nft,Fractionalized NFT
+friend-tech,friend.tech
+frog-themed-coins,Frog-Themed Coins
+ftx-holdings,FTX Holdings
+gambling,Gambling
+gaming,Gaming (GameFi)
+gbp-stablecoin,GBP Stablecoin
+gig-economy,Gig Economy
+xdai-ecosystem,Gnosis Chain Ecosystem
+gotchiverse,Gotchiverse
+governance,Governance
+guild-scholarship,Guild and Scholarship
+harmony-ecosystem,Harmony Ecosystem
+healthcare,Healthcare
+heco-chain-ecosystem,HECO Chain Ecosystem
+hedera-ecosystem,Hedera Ecosystem
+identity,Identity
+idr-stablecoin,IDR Stablecoin
+immutable-ecosystem,Immutable Ecosystem
+impossible-launchpad,Impossible Launchpad
+index-coin,Index
+infrastructure,Infrastructure
+injective-ecosystem,Injective Ecosystem
+insurance,Insurance
+internet-computer-ecosystem,Internet Computer Ecosystem
+internet-of-things-iot,Internet of Things (IOT)
+interoperability,Interoperability
+investment,Investment
+iotex-ecosystem,IoTeX Ecosystem
+iou-tokens,IOU tokens
+jack-butcher-ecosystem,Jack Butcher Ecosystem
+jpy-stablecoin,JPY Stablecoin
+kadena-ecosystem,Kadena Ecosystem
+kardiachain-ecosystem,KardiaChain Ecosystem
+klaytn-ecosystem,Klaytn Ecosystem
+kommunitas,Kommunitas Launchpad
+krw-stablecoin,KRW Stablecoin
+kujira-ecosystem,Kujira Ecosystem
+large-cap,Large-Cap PFP
+launchpad,Launchpad
+layer-1,Layer 1 (L1)
+layer-2,Layer 2 (L2)
+layer-3-l3,Layer 3 (L3)
+legal,Legal
+lending-borrowing,Lending/Borrowing
+leveraged-token,Leveraged Token
+linea-ecosystem,Linea Ecosystem
+liquid-restaking-governance-token,Liquid Restaking Governance Tokens
+liquid-restaking-tokens,Liquid Restaking Tokens
+liquid-staking-governance-tokens,Liquid Staking Governance Tokens
+liquid-staking-tokens,Liquid Staking Tokens
+loopring-ecosystem,Loopring Ecosystem
+lp-tokens,LP Tokens
+lrtfi,LRTfi
+lsdfi,LSDFi
+manta-network-ecosystem,Manta Network Ecosystem
+mantle-ecosystem,Mantle Ecosystem
+manufacturing,Manufacturing
+marketing,Marketing
+masternodes,Masternodes
+media,Media
+meme-token,Meme
+memeland-ecosystem,Memeland Ecosystem
+metagovernance,Metagovernance
+metaverse,Metaverse
+metis-ecosystem,Metis Ecosystem
+mev-protection,MEV Protection
+mid-cap,Mid-Cap PFP
+mirrored-assets,Mirrored Assets
+modular-blockchain,Modular Blockchain
+moonbeam-ecosystem,Moonbeam Ecosystem
+moonriver-ecosystem,Moonriver Ecosystem
+move-to-earn,Move To Earn
+multicoin-capital-portfolio,Multicoin Capital Portfolio
+multiversx-ecosystem,MultiversX Ecosystem
+music,Music
+near-protocol-ecosystem,Near Protocol Ecosystem
+neon-ecosystem,Neon Ecosystem
+non-fungible-tokens-nft,NFT
+nftfi,NFTFi
+nft-index,NFT Index
+nft-marketplace,NFT Marketplace
+niftex-shards,Niftex Shards
+nike-ecosystem,Nike Ecosystem
+nounsdao,NounsDAO
+number,Number
+ocm-ecosystem,OCM Ecosystem
+oec-ecosystem,OEC Ecosystem
+ohm-fork,Ohm Fork
+olympus-pro,Olympus Pro
+optimism-ecosystem,Optimism Ecosystem
+decentralized-options,Options
+oracle,Oracle
+osmosis-ecosytem,Osmosis Ecosystem
+paal-ai,PAAL AI
+paradigm-portfolio,Paradigm Portfolio
+parallel-ecosystem,Parallel Ecosystem
+parallel-evm,Parallelized EVM
+payment-solutions,Payment Solutions
+decentralized-perpetuals,Perpetuals
+pfp-avatar,PFP / Avatar
+play-to-earn,Play To Earn
+dot-ecosystem,Polkadot Ecosystem
+polygon-ecosystem,Polygon Ecosystem
+poolz-finance-launchpad,Poolz Finance Launchpad
+prediction-markets,Prediction Markets
+privacy-coins,Privacy Coins
+proof-ecosystem,Proof Ecosystem
+proof-of-stake-pos,Proof of Stake (PoS)
+proof-of-work-pow,Proof of Work (PoW)
+protocol,Protocol
+pudgy-ecosystem,Pudgy Ecosystem
+pulsechain-ecosystem,PulseChain Ecosystem
+puma-ecosystem,Puma Ecosystem
+radix-ecosystem,Radix Ecosystem
+real-estate,Real Estate
+realt-tokens,RealT Tokens
+real-world-assets-rwa,Real World Assets (RWA)
+rebase-tokens,Rebase Tokens
+reddit-points,Reddit Points
+remittance,Remittance
+restaking,Restaking
+retail,Retail
+rollup,Rollup
+rollups-as-a-service-raas,Rollups-as-a-Service (RaaS)
+rollux-ecosystem,Rollux Ecosystem
+ronin-ecosystem,Ronin Ecosystem
+rpg,RPG
+scroll-ecosystem,Scroll Ecosystem
+sei-ecosystem,Sei Ecosystem
+seigniorage,Seigniorage
+sgd-stablcoin,SGD Stablcoin
+shibarium,Shibarium Ecosystem
+shooting-games,Shooting Games
+smart-contract-platform,Smart Contract Platform
+socialfi,SocialFi
+software,Software
+solana-ecosystem,Solana Ecosystem
+solana-meme-coins,Solana Meme Coins
+token-2022,Solana Token-2022
+sports,Sports
+src-20,SRC-20
+stablecoins,Stablecoins
+starknet-ecosystem,Starknet Ecosystem
+step-network-ecosystem,Step Network Ecosystem
+storage,Storage
+structured-products,Structured Products
+sui-ecosystem,Sui Ecosystem
+synthetic-assets,Synthetic Issuer
+synths,Synths
+technology-science,Technology & Science
+telegram_apps,Telegram Apps
+tenet-ecosystem,Tenet Ecosystem
+terra-ecosystem,Terra Ecosystem
+tezos-ecosystem,Tezos Ecosystem
+theta-ecosystem,Theta Ecosystem
+tokenized-btc,Tokenized BTC
+tokenized-gold,Tokenized Gold
+tokenized-products,Tokenized Products
+tokenized-stock,Tokenized Stock
+tokenized-t-bills,Tokenized Treasury Bills (T-Bills)
+tokenized-treasury-bonds-t-bonds,Tokenized Treasury Bonds (T-Bonds)
+tokensets,TokenSets
+ton-ecosystem,TON Ecosystem
+tourism,Tourism
+tron-ecosystem,Tron Ecosystem
+try-stablecoins,TRY Stablecoin
+ultron-ecosystem,Ultron Ecosystem
+usd-stablecoin,USD Stablecoin
+us-election-2020,US Election 2020
+utokens,uTokens
+velas-ecosystem,Velas Ecosystem
+virtual-reality,Virtual Reality
+wallets,Wallets
+web-2-brands,Web 2 Brands
+wormhole-assets,Wormhole Assets
+wrapped-tokens,Wrapped-Tokens
+x1-ecosystem,X1 Ecosystem
+xdc-ecosystem,XDC Ecosystem
+yearn-yfi-partnerships-mergers,Yearn Ecosystem
+yearn-vault-tokens,Yearn Vault Tokens
+yield-aggregator,Yield Aggregator
+yield-farming,Yield Farming
+zero-knowledge-zk,Zero Knowledge (ZK)
+zetachain-ecosystem,ZetaChain Ecosystem
+zilliqa-ecosystem,Zilliqa Ecosystem
+zksync-ecosystem,ZkSync Ecosystem
