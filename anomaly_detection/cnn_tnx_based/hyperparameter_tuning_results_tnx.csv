@@ -1,6 +1,0 @@
-batch_size,fold,best_filters_1,best_filters_2,learning_rate,activation,kernel_size_1,kernel_size_2,l2_reg_1,l2_reg_2,pool_size_1,pool_size_2,dropout_1,dropout_2,up_sampling_size_1,up_sampling_size_2,val_loss
-16,1,64,8,0.002968348602498264,tanh,5,5,0.0,0.0,2,4,0.2,0.30000000000000004,2,4,"MetricObservation(value=[0.010587620548903942], step=29)"
-16,2,64,8,0.002968348602498264,tanh,5,5,0.0,0.0,2,4,0.2,0.30000000000000004,2,4,"MetricObservation(value=[0.010587620548903942], step=29)"
-16,3,64,8,0.002968348602498264,tanh,5,5,0.0,0.0,2,4,0.2,0.30000000000000004,2,4,"MetricObservation(value=[0.010587620548903942], step=29)"
-16,4,64,8,0.002968348602498264,tanh,5,5,0.0,0.0,2,4,0.2,0.30000000000000004,2,4,"MetricObservation(value=[0.010587620548903942], step=29)"
-16,5,64,8,0.002968348602498264,tanh,5,5,0.0,0.0,2,4,0.2,0.30000000000000004,2,4,"MetricObservation(value=[0.010587620548903942], step=29)"
